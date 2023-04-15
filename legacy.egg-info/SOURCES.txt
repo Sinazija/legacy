@@ -1,0 +1,10 @@
+setup.py
+legacy/__init__.py
+legacy/clean.py
+legacy/file_parser.py
+legacy/normalize.py
+legacy.egg-info/PKG-INFO
+legacy.egg-info/SOURCES.txt
+legacy.egg-info/dependency_links.txt
+legacy.egg-info/entry_points.txt
+legacy.egg-info/top_level.txt

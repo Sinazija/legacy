@@ -1,0 +1,2 @@
+[console_scripts]
+legacy = legacy.clean:main
