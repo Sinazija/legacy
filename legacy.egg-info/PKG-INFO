@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: legacy
-Version: 2.0
+Version: 1.1.1
 Summary: This package sorts folders by their extension
-Home-page: https://github.com/Sinazija/clean_folder
+Home-page: https://github.com/Sinazija/legacy
 Author: sinazija
 Author-email: Sinazija987@gmail.com
 License: MIT
